@@ -6,7 +6,7 @@
 - Angular, Firebase
 - Java (nivel académico)
 
-🚀 Me apasiona aprender nuevas tecnologías y construir proyectos web.  
+🚀 Me apasiona aprender nuevas tecnologías y construir nuevos proyectos.  
 📚 Actualmente mejorando mis habilidades con React y Git.
 
 📌 Mis repositorios incluyen prácticas, proyectos de formación y experimentos personales.
