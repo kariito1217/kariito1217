@@ -11,5 +11,5 @@
 
 📌 Mis repositorios incluyen prácticas, proyectos de formación y experimentos personales.
 
-📫 Puedes contactarme en: karensuarez2022@gmail.com  
+📫 Puedes contactarme en: karensuarez022@gmail.com  
 🌍 Cali, Colombia
