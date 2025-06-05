@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Karen Tatiana Suarez Arroyave
 
-<!--
-**kariito1217/kariito1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Front-end en formación con conocimientos en:
+- HTML, CSS, JavaScript
+- Angular, Firebase
+- Java (nivel académico)
 
-Here are some ideas to get you started:
+🚀 Me apasiona aprender nuevas tecnologías y construir proyectos web.  
+📚 Actualmente mejorando mis habilidades con React y Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Mis repositorios incluyen prácticas, proyectos de formación y experimentos personales.
+
+📫 Puedes contactarme en: karensuarez2022@gmail.com  
+🌍 Cali, Colombia
